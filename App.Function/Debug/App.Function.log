@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\micky\source\repos\App.Function\App.Function\main.cpp(13,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  App.Function.vcxproj -> C:\Users\micky\source\repos\App.Function\Debug\App.Function.exe
